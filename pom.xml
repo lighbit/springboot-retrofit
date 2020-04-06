@@ -98,6 +98,6 @@
 		
 	</dependencies>
 	<build>
-		<finalName>netzme</finalName>
+		<finalName>api</finalName>
 	</build>
 </project>
