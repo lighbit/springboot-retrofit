@@ -7,7 +7,11 @@ import org.springframework.context.annotation.PropertySource;
 import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
-
+/**
+ * 
+ * @author zulkarnaen
+ *
+ */
 @Configuration
 @EnableWebMvc
 @EnableWebSecurity

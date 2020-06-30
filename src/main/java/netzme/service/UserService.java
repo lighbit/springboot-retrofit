@@ -3,7 +3,11 @@ package netzme.service;
 import java.util.List;
 import netzme.model.Result;
 import netzme.model.User;
-
+/**
+ * 
+ * @author zulkarnaen
+ *
+ */
 public interface UserService {
 
 	public User getUser(User user);

@@ -13,6 +13,11 @@ import netzme.model.User;
 import retrofit2.Call;
 import retrofit2.Response;
 
+/**
+ * 
+ * @author zulkarnaen
+ *
+ */
 @Service("userService")
 public class UserServiceImpl implements UserService {
 

@@ -8,7 +8,11 @@ import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
 import org.springframework.web.servlet.DispatcherServlet;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
-
+/**
+ * 
+ * @author zulkarnaen
+ *
+ */
 public class MyInitializer extends AbstractAnnotationConfigDispatcherServletInitializer
 		implements WebApplicationInitializer {
 

@@ -9,7 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 import netzme.model.Result;
 import netzme.model.User;
 import netzme.service.UserService;
-
+/**
+ * 
+ * @author zulkarnaen
+ *
+ */
 @RestController
 public class MyController {
 

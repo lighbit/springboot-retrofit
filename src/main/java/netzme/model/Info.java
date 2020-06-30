@@ -1,7 +1,11 @@
 package netzme.model;
 
 import com.google.gson.annotations.SerializedName;
-
+/**
+ * 
+ * @author zulkarnaen
+ *
+ */
 public class Info {
 
 	@SerializedName("seed")
